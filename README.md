@@ -48,6 +48,8 @@ For reference, I took A LOT of code from this repo. It's written in CPP, but I u
 
 In watching some Half-Life retrospectives and post-mortems, I learned that the Gravity Gun in Half-Life 2 was originally a debugging tool. Eventually, the Gravity Tool became fun to use, and the devs decided to give the player the tool, and the game of the year was born. In fact, at the same time Valve was working on Half-Life's physics engine, Id Software AT THE SAME TIME had their own physics debugging tool and opted against giving it to the player for fear it would "make the player too powerful." I take that entire history as a huge lesson. Good tools can make or break a product, so I keep my eyes out and ask myself often "Can I make a tool for that?".
 
+[I think this is the video for the Half Life Retrospective I am talking about](https://www.youtube.com/watch?v=BQLEW1c-69c)
+
 ### Final Thoughts
 ---
 I am more of a compiler than an inventor at this stage of my career but aim to evolve in the coming years to be a well-rounded inventor of new things.
