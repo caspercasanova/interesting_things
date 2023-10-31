@@ -3,6 +3,8 @@ Warning: I ran this through Chatgpt to spell check for me because I am lazy. Let
 
 To my dismay, I don't have much publicly facing code that I am particularly proud of, and the code that is private is because I am too embarrassed to show it publicly.
 
+Most of the code I've written is in a Monorepo somewhere in Star Atlas Space. The examples below don't represent my everyday work. Most of my day to day work included more boring stuff. 
+
 A couple of things I find interesting.
 
 ### Bots
@@ -39,7 +41,7 @@ The code below shows something like this sequence.
 
 [NPC Damage Taken](https://github.com/caspercasanova/Durers_Solid/blob/main/npcs/dummy/dummymale.gd#L426)
 
-The entire repo is chaos, and at the moment I like it like that.
+The entire repo is chaos, and at the moment I like it like that. I will show you how to run the code on a call if you'd like. 
 For reference, I took A LOT of code from this repo. It's written in CPP, but I used chat GPT to help me understand what was going on. HEAVY HEAVY HEAVY influence comes from this.
 [Source SDK](https://github.com/ValveSoftware/source-sdk-2013/blob/master/mp/src/game/shared/takedamageinfo.cpp#L386)
 - Also, the [Damage Source File](https://github.com/caspercasanova/Durers_Solid/blob/main/globals/Damage_Source.gd) has the links to a lot of referenced code in the Source SDK
