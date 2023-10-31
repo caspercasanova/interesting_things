@@ -3,7 +3,7 @@ Warning: I ran this through Chatgpt to spell check for me because I am lazy. Let
 
 To my dismay, I don't have much publicly facing code that I am particularly proud of, and the code that is private is because I am too embarrassed to show it publicly.
 
-Most of the code I've written is in a Monorepo somewhere in Star Atlas Space. The examples below don't represent my everyday work. Most of my day to day work included more boring stuff. 
+Most of the code I've written is in a Monorepo somewhere in Star Atlas Space. The examples below don't represent my everyday work. Most of my day to day work included more boring stuff like. I have a private repo atm of some web code but I don't want to make that public, but for an idea it is a Turborepo where I am experimenting with Solidjs and some other CSS libraries. I am also using Railway.app to deploy some code, and will eventually run some kind of crank that does something idk.
 
 A couple of things I find interesting.
 
