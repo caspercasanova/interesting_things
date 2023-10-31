@@ -29,11 +29,15 @@ The code below shows something like this sequence.
 - Bullet collides with a wall and stands still for 1 second and explodes
 - That explosion collision box collides with the NPC collision boxes and registers a Blast Damage type.
 
-_[Damage Source](https://github.com/caspercasanova/Durers_Solid/blob/main/globals/Damage_Source.gd)
-_[Basic Gun Use](https://github.com/caspercasanova/Durers_Solid/blob/main/weapons/blaster_a/blaster_a.gd#L37)
-_[Basic Bullet](https://github.com/caspercasanova/Durers_Solid/blob/main/weapons/bullet.gd#L24)
-_[Basic NPC](https://github.com/caspercasanova/Durers_Solid/blob/main/npcs/dummy/dummymale.gd)
-_[NPC Damage Taken](https://github.com/caspercasanova/Durers_Solid/blob/main/npcs/dummy/dummymale.gd#L426)
+[Damage Source](https://github.com/caspercasanova/Durers_Solid/blob/main/globals/Damage_Source.gd)
+
+[Basic Gun Use](https://github.com/caspercasanova/Durers_Solid/blob/main/weapons/blaster_a/blaster_a.gd#L37)
+
+[Basic Bullet](https://github.com/caspercasanova/Durers_Solid/blob/main/weapons/bullet.gd#L24)
+
+[Basic NPC](https://github.com/caspercasanova/Durers_Solid/blob/main/npcs/dummy/dummymale.gd)
+
+[NPC Damage Taken](https://github.com/caspercasanova/Durers_Solid/blob/main/npcs/dummy/dummymale.gd#L426)
 
 The entire repo is chaos, and at the moment I like it like that.
 For reference, I took A LOT of code from this repo. It's written in CPP, but I used chat GPT to help me understand what was going on. HEAVY HEAVY HEAVY influence comes from this.
@@ -49,6 +53,8 @@ In watching some Half-Life retrospectives and post-mortems, I learned that the G
 I am more of a compiler than an inventor at this stage of my career but aim to evolve in the coming years to be a well-rounded inventor of new things.
 
 Here's some coders I find interesting. Will add more in time.
-_[JWZ](https://www.jwz.org/)
-_[Primagen](https://www.youtube.com/@ThePrimeagen)
+
+[JWZ](https://www.jwz.org/)
+
+[Primagen](https://www.youtube.com/@ThePrimeagen)
 
