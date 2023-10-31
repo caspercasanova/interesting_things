@@ -42,7 +42,7 @@ The code below shows something like this sequence.
 The entire repo is chaos, and at the moment I like it like that.
 For reference, I took A LOT of code from this repo. It's written in CPP, but I used chat GPT to help me understand what was going on. HEAVY HEAVY HEAVY influence comes from this.
 [Source SDK](https://github.com/ValveSoftware/source-sdk-2013/blob/master/mp/src/game/shared/takedamageinfo.cpp#L386)
-- Also, the damage source has the links to a lot of referenced files in the Source SDK
+- Also, the [Damage Source File](https://github.com/caspercasanova/Durers_Solid/blob/main/globals/Damage_Source.gd) has the links to a lot of referenced code in the Source SDK
 
 ### A note about Half-Life
 
