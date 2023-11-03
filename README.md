@@ -71,15 +71,17 @@ For reference, I took A LOT of code from this repo. It's written in CPP, but I u
 
 - Go to 52:18
 
-### Devs
+### Devs & Inspos
 
 ---
 
-Here's some coders I find interesting. Will add more in time.
+Here's some other things I find interesting. Will add more in time.
 
 [JWZ](https://www.jwz.org/)
 
 [Primagen](https://www.youtube.com/@ThePrimeagen)
+
+[A cool code garden](https://garden.bradwoods.io/)
 
 ### Final Thoughts
 
